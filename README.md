@@ -21,4 +21,4 @@ git clone https://github.com/xdegenne/1AnsibleTipPerDay.git
 cd 1AnsibleTipPerDay
 ```
 
-Let's [start](Day001pm-HelloWorld) by the first day tip.
+Let's [start](Day001am-InstallAnsible) by the first day tip.
