@@ -13,3 +13,12 @@ I'll try to regularly posts tips always having educational concerns in mind.
 Apologize for my english (this is also an exercice for me !). Feel free to contribute.
 
 Good trip.
+
+# How-to use
+
+```
+git clone https://github.com/xdegenne/1AnsibleTipPerDay.git
+cd 1AnsibleTipPerDay
+```
+
+Let's [start](Day001am - Install Ansible) by the first day tip.
