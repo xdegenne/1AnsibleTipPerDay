@@ -26,9 +26,9 @@ localhost                  : ok=1    changed=0    unreachable=0    failed=0    s
 
 It's often verbose but alway meanfull. You just have to understand it's langage.
 
-* Your playbook named `My fist playbook` has been PLAYed on the host `localhost`
-* The second task was named [debug] and says `Hello World !`in a `debug` message.
-* The recap explain you what has been done !
+* Your playbook named `My fist playbook` has been PLAYed on the host `localhost`.
+* The first (an unique) task it contains is named [debug] and says `Hello World !`in a `debug` `msg`.
+* The recap explains you what has been done (au rapport !).
 
 That's all folks !
 
