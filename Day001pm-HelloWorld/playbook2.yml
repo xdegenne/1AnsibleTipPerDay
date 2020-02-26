@@ -1,0 +1,8 @@
+---
+- name: My fist playbook
+  hosts: localhost
+  gather_facts: no
+  tasks:
+    - name: Say Hello
+      debug:
+        msg: Hello World !

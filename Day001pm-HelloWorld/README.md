@@ -33,5 +33,8 @@ It's often verbose but alway meanfull. You just have to understand it's langage.
 That's all folks !
 
 Just remember : please **always give a name** to your playbooks and tasks, it's very important !
+The name you give to the task should a very short description of **What does the task do**.
+
+So let's rename our task (Cf. [playbook2.yml](playbook2.yml)) and relaunch the play.
 
 Congratulations, you are almost an Ansible star !
