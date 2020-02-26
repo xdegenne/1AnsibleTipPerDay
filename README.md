@@ -18,7 +18,7 @@ Good trip.
 
 # Prerequisites
 
-* Having git installed and now how to *a minima* how to clone and pull.
+* Having git installed and know *a minima* how to clone and pull this repo.
 * Having a YAML editor (I love [Atom](https://atom.io/) but YAML is just text so at worst, notepad can help you) and know [basis about YAML](https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/).
 
 # How-to use
