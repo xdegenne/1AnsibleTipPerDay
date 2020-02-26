@@ -1,4 +1,4 @@
-# Ansible Trip - Day 1 pm - Install Ansible
+# Ansible Trip - Day 1 pm - Hello World !
 
 With Ansible, all stories start with a playbook.
 
