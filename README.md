@@ -22,3 +22,5 @@ cd 1AnsibleTipPerDay
 ```
 
 Let's [start](Day001am-InstallAnsible) by the first day tip.
+
+If you have questions, feel free to create issues, fork, pull request ! I'll try to follow.
