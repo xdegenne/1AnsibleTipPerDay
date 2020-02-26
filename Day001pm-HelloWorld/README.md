@@ -32,4 +32,6 @@ It's often verbose but alway meanfull. You just have to understand it's langage.
 
 That's all folks !
 
+Just remember : please *always give a name* to your playbooks and tasks, it's very important !
+
 Congratulations, you are almost an Ansible star !
