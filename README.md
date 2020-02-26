@@ -16,6 +16,11 @@ If you have questions, feel free to create issues, fork, pull request, this is o
 
 Good trip.
 
+# Prerequisites
+
+* Having git installed and now how to *a minima* how to clone and pull.
+* Having a YAML editor and know [basis about YAML](https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/).
+
 # How-to use
 
 ```
