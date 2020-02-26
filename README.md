@@ -12,7 +12,7 @@ I'll try to regularly posts tips always having educational concerns in mind.
 
 Apologize for my english (this is also an exercice for me !). Feel free to contribute.
 
-If you have questions, feel free to create issues, fork, pull request ! I'll try to follow.
+If you have questions, feel free to create issues, fork, pull request, this is opensourced, just contribute ! I'll try to follow.
 
 Good trip.
 
