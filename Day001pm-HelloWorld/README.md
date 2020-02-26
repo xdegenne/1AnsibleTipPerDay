@@ -1,6 +1,6 @@
 # Ansible Trip - Day 1 pm - Hello World !
 
-With Ansible, all stories start with a **playbook**.
+With Ansible, all stories start with a **playbook**. Let's say for the moment that a playbook is a list of tasks executed sequencially.
 
 Our [playbook1.yml](playbook1.yml) just contains one **task** that says hello.
 
