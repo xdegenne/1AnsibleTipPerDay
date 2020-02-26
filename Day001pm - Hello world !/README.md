@@ -2,7 +2,7 @@
 
 With Ansible, all stories start with a playbook.
 
-Our [playbook1.yml][./playbook1.yml] just contains one *TASK* that says hello.
+Our [playbook1.yml](playbook1.yml) just contains one *TASK* that says hello.
 
 Launch it using Ansible :
 
