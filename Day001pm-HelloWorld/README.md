@@ -1,8 +1,8 @@
 # Ansible Trip - Day 1 pm - Hello World !
 
-With Ansible, all stories start with a playbook.
+With Ansible, all stories start with a **playbook**.
 
-Our [playbook1.yml](playbook1.yml) just contains one *TASK* that says hello.
+Our [playbook1.yml](playbook1.yml) just contains one **task** that says hello.
 
 Launch it using Ansible :
 
@@ -32,6 +32,6 @@ It's often verbose but alway meanfull. You just have to understand it's langage.
 
 That's all folks !
 
-Just remember : please *always give a name* to your playbooks and tasks, it's very important !
+Just remember : please **always give a name** to your playbooks and tasks, it's very important !
 
 Congratulations, you are almost an Ansible star !
