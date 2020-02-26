@@ -1,0 +1,20 @@
+---
+
+- name: My fist playbook
+  hosts: localhost
+  gather_facts: no
+  tasks:
+
+    - name: Ask the enduser it's name
+      pause:
+        prompt: "What's your name ?"
+      register: prompt_result
+
+    - name: Here is the prompt_result
+      debug:
+        var: prompt_result
+
+    - name: Don't Say Hello when user is "Dr Chaps"
+      debug:
+        msg: "Hello {{ prompt_result.user_input }} !"
+      when: not prompt_result.user_input == "Dr Chaps"
