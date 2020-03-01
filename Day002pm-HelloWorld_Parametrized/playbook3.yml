@@ -1,0 +1,18 @@
+---
+
+- name: My fist playbook
+  hosts: localhost
+  gather_facts: yes
+
+  vars:
+    ia_name: HAL 9000
+
+  tasks:
+
+    - name: Display all vars
+      debug:
+        var: vars
+
+    - name: Say Hello
+      debug:
+        msg: "Nice to meet you {{ vars.ansible_env.USER }}, my name is {{ ia_name }}@{{ vars.inventory_hostname }} !"

@@ -1,0 +1,19 @@
+---
+
+- name: My fist playbook
+  hosts: localhost
+  gather_facts: no
+
+  vars:
+    ia_name: HAL 9000
+
+  tasks:
+
+    - name: Ask the enduser it's name
+      pause:
+        prompt: "What's your name ?"
+      register: prompt_result
+
+    - name: Say Hello
+      debug:
+        msg: "Nice to meet you {{ prompt_result.user_input }}, my name is {{ ia_name }}."
