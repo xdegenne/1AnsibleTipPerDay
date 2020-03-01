@@ -7,7 +7,7 @@ Our [playbook1.yml](playbook1.yml) just contains one **task** that says hello.
 Launch it using Ansible :
 
 ```
-ansible-playbook -i localhost, playbook1.yml
+ansible-playbook playbook1.yml
 ```
 
 The command above should print you this :

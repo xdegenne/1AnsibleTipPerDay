@@ -8,7 +8,7 @@ We use it in the [debug msg](playbook1.yml#L19) to answer the user input.
 Let's launch it using Ansible :
 
 ```
-Day002pm-HelloWorld_Parametrized $ ansible-playbook -i localhost, playbook1.yml
+Day002pm-HelloWorld_vars $ ansible-playbook playbook1.yml
 ```
 ```
 ...

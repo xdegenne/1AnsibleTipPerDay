@@ -18,7 +18,7 @@ We can ask the user for something by adding a task like this :
 Let's launch it using Ansible :
 
 ```
-Day002am-HelloWorld_Prompt $ ansible-playbook -i localhost, playbook1.yml
+Day002am-HelloWorld_Prompt $ ansible-playbook playbook1.yml
 
 PLAY [My fist playbook] *********************************************************************************************
 
