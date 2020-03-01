@@ -1,4 +1,4 @@
-# Ansible Trip - Day 2 pm - Hello World (var)
+# Ansible Trip - Day 2 pm - Hello World (vars)
 
 We usually use `vars` to parametrize our tasks.
 

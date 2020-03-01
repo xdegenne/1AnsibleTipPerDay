@@ -61,4 +61,4 @@ I use such kind of prompt when the playbook is about to delete some important re
 
 Mostly, we use variables to setup some inputs in our playbooks.
 
-Let's see how this [afternoon](../Day002pm-HelloWorld_Parametrized)
+Let's see how this [afternoon](../Day002pm-HelloWorld_vars)
