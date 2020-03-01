@@ -62,6 +62,6 @@ PLAY RECAP *********************************************************************
 localhost                  : ok=3    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0
 ```
 
-Please not that we have written 2 tasks in our playbook but 3 were executed. Why ? The [Gater fact module](https://docs.ansible.com/ansible/latest/modules/gather_facts_module.html) adds a task named `Gathering Facts` to our playbook.
+Please not that we have written 2 tasks in our playbook but 3 were executed (ok=3). Why ? The [Gater fact module](https://docs.ansible.com/ansible/latest/modules/gather_facts_module.html) adds a task named `Gathering Facts` to our playbook.
 
-> Tip : Activate gather_facts only when you need informations about remote host. If your playbook don't need such information, set gather_facts to no and your play will be shorten.
+> Tip : Activate gather_facts only when you really need informations about remote host. If your playbook don't need such information, set gather_facts to no and your playbook execution will be faster !
